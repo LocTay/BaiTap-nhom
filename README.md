@@ -1,5 +1,5 @@
 # Bài tập nhóm - môn Phân tích thiết kế hệ thống thông tin
-# Dự Án Nhóm : Tour của ngành du lịch Đại học Nha Trang
+# Dự Án Nhóm : Quản lí Tour du lịch tại tỉnh khánh hòa
 ## Thành viên nhóm
 -Lê Thành Lộc_65131796
 
